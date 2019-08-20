@@ -1,0 +1,4 @@
+{
+    "go.useLanguageServer": false,
+    "debug.node.autoAttach": "on"
+}
